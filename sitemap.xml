@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/bonjourL/message/index.html</loc>
-    
-    <lastmod>2023-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/bonjourL/self-talking/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://github.com/bonjourL/music/index.html</loc>
+    
+    <lastmod>2023-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/bonjourL/message/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/about/index.html</loc>
+    <loc>https://github.com/bonjourL/media/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/media/index.html</loc>
+    <loc>https://github.com/bonjourL/about/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
