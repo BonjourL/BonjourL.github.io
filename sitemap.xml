@@ -38,15 +38,6 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/about/index.html</loc>
-    
-    <lastmod>2023-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/bonjourL/friend/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://github.com/bonjourL/album/index.html</loc>
+    
+    <lastmod>2023-02-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/bonjourL/about/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
