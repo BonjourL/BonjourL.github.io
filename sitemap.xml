@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/bonjourL/message/index.html</loc>
+    <loc>https://github.com/bonjourL/music/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/music/index.html</loc>
+    <loc>https://github.com/bonjourL/message/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/friend/index.html</loc>
+    <loc>https://github.com/bonjourL/album/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/album/index.html</loc>
+    <loc>https://github.com/bonjourL/media/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/bonjourL/media/index.html</loc>
+    <loc>https://github.com/bonjourL/friend/index.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://github.com/bonjourL</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,14 +84,14 @@
   
   <url>
     <loc>https://github.com/bonjourL/tags/Getting-Started/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.com/bonjourL/tags/Icarus-User-Guide/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -100,14 +100,14 @@
   
   <url>
     <loc>https://github.com/bonjourL/categories/Plugins/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.com/bonjourL/categories/Plugins/Comment/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

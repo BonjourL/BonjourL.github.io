@@ -1,11 +1,11 @@
-https://github.com/bonjourL/message/index.html
-https://github.com/bonjourL/self-talking/index.html
 https://github.com/bonjourL/music/index.html
+https://github.com/bonjourL/self-talking/index.html
+https://github.com/bonjourL/message/index.html
 https://github.com/bonjourL/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.html
-https://github.com/bonjourL/friend/index.html
-https://github.com/bonjourL/about/index.html
 https://github.com/bonjourL/album/index.html
+https://github.com/bonjourL/about/index.html
 https://github.com/bonjourL/media/index.html
+https://github.com/bonjourL/friend/index.html
 https://github.com/bonjourL
 https://github.com/bonjourL/tags/Getting-Started/
 https://github.com/bonjourL/tags/Icarus-User-Guide/
